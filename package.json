@@ -1,0 +1,28 @@
+{
+  "name": "ridvan-deneme",
+  "version": "1.0.0",
+  "description": "deneme dosyasi",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "ridvan": "echo 'Benim adım Ridvan'",
+    "start": "node index.js"
+  },
+  "keywords": [
+    "deneme",
+    "paket"
+  ],
+  "author": "ridvan asar",
+  "license": "ISC",
+  "dependencies": {
+    "mongoose": "^5.9.20",
+    "simple-is": "^0.2.0"
+  },
+  "devDependencies": {
+    "webpack-cli": "^3.3.12"
+  },
+  "repository": {
+    "type": "git",
+    "url" : "https://github.com/ridvanasar/ridvan-deneme.git"
+  }
+}
